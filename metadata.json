@@ -1,0 +1,5 @@
+{
+  "name": "SecureScan",
+  "description": "Intelligent URL Threat Scanner with real-time analytics and enterprise-grade security monitoring.",
+  "requestFramePermissions": ["geolocation"]
+}
